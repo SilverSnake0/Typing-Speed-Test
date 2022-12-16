@@ -47,7 +47,7 @@ def display_progress(current, total):
     progress_bar = "[" + "|" * progress + " " * (20 - progress) + "]"
     print(f'Progress: {progress_bar} {current / total * 100:.1f}%')
 
-# This is the typing test function taking four arguments
+# This is the typing test function taking five arguments
 def typing_speed_test(sentence, start_message_printed, current, total, typed_sentences):
 
     # Randomly shuffle the sentences
