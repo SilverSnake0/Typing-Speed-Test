@@ -4,9 +4,9 @@ This program is designed to help you improve your typing skills and measure your
 
 # Features:
 
--Calculate words per minute (WPM) speed: The program will calculate your typing speed in WPM based on the number of words you type correctly in a minute.
--Compare your sentences with the correct sentence: As you type, the program will give you the option to compare your typed sentences with the correct sentences to show you which words you typed correctly and which ones you typed incorrectly.
--Save test results to a text file: After completing a typing test, you have the option to save your test results to a text file for later review. This can help you track your progress and see how you are improving over time.
+- Calculate words per minute (WPM) speed: The program will calculate your typing speed in WPM based on the number of words you type correctly in a minute.
+- Compare your sentences with the correct sentence: As you type, the program will give you the option to compare your typed sentences with the correct sentences to show you which words you typed correctly and which ones you typed incorrectly.
+- Save test results to a text file: After completing a typing test, you have the option to save your test results to a text file for later review. This can help you track your progress and see how you are improving over time.
 
 # Requirements:
 
