@@ -20,7 +20,7 @@ sentences = [
     'Titanic, released in 1997, is a romantic drama film directed by James Cameron and starring Leonardo DiCaprio and Kate Winslet as young lovers who meet aboard the ill-fated RMS Titanic during its maiden voyage.',
     'The Dark Knight, released in 2008, is a superhero film based on the DC Comics character Batman and directed by Christopher Nolan. It stars Christian Bale as Batman and Heath Ledger as the Joker, and won 2 Academy Awards.',
     'Jurassic Park, released in 1993, is a science fiction adventure film directed by Steven Spielberg and based on the novel of the same name by Michael Crichton. It features groundbreaking special effects that bring to life a group of cloned dinosaurs.',
-    'Elon Musk is a South African-born American entrepreneur and business magnate who founded SpaceX, Tesla, OpenAI, Neuralink, PayPal,,and The Boring Company.',
+    'Elon Musk is a South African-born American entrepreneur and business magnate who founded SpaceX, Tesla, OpenAI, Neuralink, PayPal, and The Boring Company.',
     'Jedi are the main protagonists of the Star Wars franchise, known for their use of the Force and their ability to wield lightsabers.',
     'Settlers of Catan is a board game in which players collect resources and build settlements, cities, and roads on the island of Catan.',
     'Pirates are infamous for their love of treasure, and are known for attacking and plundering ships on the high seas.'
